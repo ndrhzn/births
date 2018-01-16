@@ -39,7 +39,7 @@ ggplot(df)+
                              2005, 2007, 2008, 2010, 2014))+
   labs(title = 'Набільше дітей народжується у липні',
        subtitle = 'Розподіл народжених в Україні за місяцями, 1980-2014 роки',
-       caption = 'Дані: UN Data | Візуалізація: Textura.in.ua')+
+       caption = 'Дані: UNdata | Візуалізація: Textura.in.ua')+
   guides(fill = guide_colorbar(nbin = 5, raster = F, ticks = F,
                                title = 'Частка народжених впродовж місяця від числа усіх народжених за рік, %',
                                title.position = 'top'))+

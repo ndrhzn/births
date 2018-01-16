@@ -1,2 +1,1 @@
-# births
-Births by month in Ukraine, 1980-2014
+![](https://github.com/andriy-gazin/births/raw/master/heatmap_relative.png)
